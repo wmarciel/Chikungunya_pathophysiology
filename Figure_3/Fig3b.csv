@@ -1,0 +1,161 @@
+﻿class,m/z,abbreviation,groups,log2(FC),p_value
+Fatty acid,204.1232,CAR 2:0,C/H,0.9098,0.9278
+Fatty acid,204.1232,CAR 2:0,S/H,-1.0926,0.0161
+Fatty acid,204.1232,CAR 2:0,F/H,1.7689,0.0232
+Fatty acid,204.1232,CAR 2:0,F/S,2.8343,0.001
+Fatty acid,295.2268,FA 18:3;O,C/H,3.7293,0.0001
+Fatty acid,295.2268,FA 18:3;O,S/H,4.449,0
+Fatty acid,295.2268,FA 18:3;O,F/H,2.4988,0.0042
+Fatty acid,295.2268,FA 18:3;O,F/S,-1.9135,0.0196
+Fatty acid,359.2194,FA 20:4;O2,C/H,2.3231,0.0064
+Fatty acid,359.2194,FA 20:4;O2,S/H,2.9197,0
+Fatty acid,359.2194,FA 20:4;O2,F/H,1.4615,0.1969
+Fatty acid,359.2194,FA 20:4;O2,F/S,-1.4187,0.0132
+Fatty acid,400.3421,CAR 16:0,C/H,0.6134,0.7374
+Fatty acid,400.3421,CAR 16:0,S/H,-0.543,0.1884
+Fatty acid,400.3421,CAR 16:0,F/H,1.254,0.0007
+Fatty acid,400.3421,CAR 16:0,F/S,1.7678,0.0004
+Fatty acid,426.3576,CAR 18:1,C/H,1.5334,0.3416
+Fatty acid,426.3576,CAR 18:1,S/H,-1.6681,0.166
+Fatty acid,426.3576,CAR 18:1,F/H,2.4725,0.0006
+Fatty acid,426.3576,CAR 18:1,F/S,3.0484,0
+Fatty acid,428.3734,CAR 18:0,C/H,-0.0655,0.9397
+Fatty acid,428.3734,CAR 18:0,S/H,-0.9551,0.2075
+Fatty acid,428.3734,CAR 18:0,F/H,0.4835,0.0625
+Fatty acid,428.3734,CAR 18:0,F/S,1.4278,0.001
+Glycerolipid,869.699,TG 50:2,C/H,0.3007,0.9698
+Glycerolipid,869.699,TG 50:2,S/H,-1.0964,0.0806
+Glycerolipid,869.699,TG 50:2,F/H,1.012,0.0149
+Glycerolipid,869.699,TG 50:2,F/S,1.6406,0.0005
+Glycerolipid,871.7145,TG 50:1,C/H,0.6223,0.8814
+Glycerolipid,871.7145,TG 50:1,S/H,-1.3253,0.1631
+Glycerolipid,871.7145,TG 50:1,F/H,1.444,0.0606
+Glycerolipid,871.7145,TG 50:1,F/S,1.9778,0.0038
+Glycerolipid,893.6991,TG 52:4,C/H,-0.7819,0.0218
+Glycerolipid,893.6991,TG 52:4,S/H,-2.0109,0.0002
+Glycerolipid,893.6991,TG 52:4,F/H,-0.1099,0.4179
+Glycerolipid,893.6991,TG 52:4,F/S,1.654,0.0238
+Glycerolipid,895.7149,TG 52:3,C/H,-0.1487,0.2942
+Glycerolipid,895.7149,TG 52:3,S/H,-1.6289,0.0059
+Glycerolipid,895.7149,TG 52:3,F/H,0.5756,0.2213
+Glycerolipid,895.7149,TG 52:3,F/S,2.1952,0.0009
+Glycerolipid,897.7305,TG 52:2,C/H,0.191,0.5305
+Glycerolipid,897.7305,TG 52:2,S/H,-1.3704,0.003
+Glycerolipid,897.7305,TG 52:2,F/H,0.9437,0.0234
+Glycerolipid,897.7305,TG 52:2,F/S,2.1982,0.0001
+Glycerolipid,921.7301,TG 54:4,C/H,-0.6934,0.0552
+Glycerolipid,921.7301,TG 54:4,S/H,-2.4346,0.0001
+Glycerolipid,921.7301,TG 54:4,F/H,0.0813,0.9997
+Glycerolipid,921.7301,TG 54:4,F/S,1.7201,0.0016
+Glycerolipid,923.7456,TG 54:3,C/H,-0.1627,0.4142
+Glycerolipid,923.7456,TG 54:3,S/H,-1.548,0.0061
+Glycerolipid,923.7456,TG 54:3,F/H,0.5616,0.2634
+Glycerolipid,923.7456,TG 54:3,F/S,1.7212,0.0015
+N-acyl amides,376.2976,N-palmitoyl histidine,C/H,-0.033,0.5477
+N-acyl amides,376.2976,N-palmitoyl histidine,S/H,-1.1363,0.0029
+N-acyl amides,376.2976,N-palmitoyl histidine,F/H,0.5925,0.0285
+N-acyl amides,376.2976,N-palmitoyl histidine,F/S,1.7046,0
+N-acyl amides,390.2769,NAE 20:2,C/H,-0.6618,0.2698
+N-acyl amides,390.2769,NAE 20:2,S/H,-2.1296,0.0083
+N-acyl amides,390.2769,NAE 20:2,F/H,0.0752,0.5854
+N-acyl amides,390.2769,NAE 20:2,F/S,1.7104,0.0004
+N-acyl amides,392.2927,NAE 20:1,C/H,-0.963,0.1428
+N-acyl amides,392.2927,NAE 20:1,S/H,-2.5672,0.0074
+N-acyl amides,392.2927,NAE 20:1,F/H,-0.2009,0.9326
+N-acyl amides,392.2927,NAE 20:1,F/S,2.3394,0.0094
+Others,202.0332,Isoxanthopterin,C/H,-1.0168,0.0077
+Others,202.0332,Isoxanthopterin,S/H,-0.1827,0.5874
+Others,202.0332,Isoxanthopterin,F/H,-3.1549,0
+Others,202.0332,Isoxanthopterin,F/S,-2.9635,0.0003
+Others,255.1204,Biopterin,C/H,-3.0929,0
+Others,255.1204,Biopterin,S/H,-2.9895,0
+Others,255.1204,Biopterin,F/H,-3.1094,0
+Others,255.1204,Biopterin,F/S,0,1
+Others,292.045,Neopterin,C/H,-0.4976,0.4701
+Others,292.045,Neopterin,S/H,0.3337,0.6005
+Others,292.045,Neopterin,F/H,-2.8918,0.0111
+Others,292.045,Neopterin,F/S,-3.2795,0.0014
+Others,338.1085,Chondrosine,C/H,0.3286,0.9463
+Others,338.1085,Chondrosine,S/H,1.2697,0.0183
+Others,338.1085,Chondrosine,F/H,-2.7928,0.0099
+Others,338.1085,Chondrosine,F/S,-3.0345,0
+Others,1073.469,Vasopressin,C/H,-2.3416,0
+Others,1073.469,Vasopressin,S/H,-2.4799,0
+Others,1073.469,Vasopressin,F/H,-2.1677,0
+Others,1073.469,Vasopressin,F/S,0.2773,0.7629
+Phospholipid,508.3761,LPC P-18:0  / LPC O-18:1,C/H,3.1465,0
+Phospholipid,508.3761,LPC P-18:0  / LPC O-18:1,S/H,3.7012,0
+Phospholipid,508.3761,LPC P-18:0  / LPC O-18:1,F/H,2.3322,0.0024
+Phospholipid,508.3761,LPC P-18:0  / LPC O-18:1,F/S,-1.3528,0.0092
+Phospholipid,520.3398,LPC 18:2,C/H,-1.6601,0
+Phospholipid,520.3398,LPC 18:2,S/H,-1.9994,0
+Phospholipid,520.3398,LPC 18:2,F/H,-1.4005,0.0004
+Phospholipid,520.3398,LPC 18:2,F/S,0.6099,0.7054
+Phospholipid,534.2696,LPI 12:0,C/H,4.2715,0
+Phospholipid,534.2696,LPI 12:0,S/H,3.5655,0
+Phospholipid,534.2696,LPI 12:0,F/H,3.9597,0
+Phospholipid,534.2696,LPI 12:0,F/S,-0.6002,0.8407
+Phospholipid,546.2809,LPS 18:1,C/H,4.175,0.0017
+Phospholipid,546.2809,LPS 18:1,S/H,0,1
+Phospholipid,546.2809,LPS 18:1,F/H,3.9676,0
+Phospholipid,546.2809,LPS 18:1,F/S,4.226,0
+Phospholipid,607.3221,LPI P-18:0,C/H,-1.9237,0
+Phospholipid,607.3221,LPI P-18:0,S/H,-1.6418,0.0019
+Phospholipid,607.3221,LPI P-18:0,F/H,-2.183,0
+Phospholipid,607.3221,LPI P-18:0,F/S,-0.7106,0.4218
+Phospholipid,800.5797,PS P-38:2  / PS O-38:3,C/H,2.5929,0.0011
+Phospholipid,800.5797,PS P-38:2  / PS O-38:3,S/H,3.0319,0.0001
+Phospholipid,800.5797,PS P-38:2  / PS O-38:3,F/H,1.3753,0.015
+Phospholipid,800.5797,PS P-38:2  / PS O-38:3,F/S,-1.988,0.0246
+Phospholipid,802.5954,PS P-38:1  / PS O-38:2,C/H,2.0803,0.0056
+Phospholipid,802.5954,PS P-38:1  / PS O-38:2,S/H,2.5696,0.0001
+Phospholipid,802.5954,PS P-38:1  / PS O-38:2,F/H,0.854,0.1308
+Phospholipid,802.5954,PS P-38:1  / PS O-38:2,F/S,-2.0073,0.009
+Phospholipid,804.5512,PC 36:4,C/H,-1.9758,0.0002
+Phospholipid,804.5512,PC 36:4,S/H,-2.0035,0.0002
+Phospholipid,804.5512,PC 36:4,F/H,-1.8478,0.0011
+Phospholipid,804.5512,PC 36:4,F/S,0.2827,0.784
+Phospholipid,808.5848,PC 38:5,C/H,-1.7131,0.0001
+Phospholipid,808.5848,PC 38:5,S/H,-1.7686,0.0002
+Phospholipid,808.5848,PC 38:5,F/H,-1.664,0.0004
+Phospholipid,808.5848,PC 38:5,F/S,0.0908,0.7498
+Phospholipid,814.5592,PS 38:3,C/H,0,1
+Phospholipid,814.5592,PS 38:3,S/H,2.114,0.0007
+Phospholipid,814.5592,PS 38:3,F/H,0,1
+Phospholipid,814.5592,PS 38:3,F/S,-1.8842,0.0155
+Phospholipid,816.5758,PS 38:2,C/H,0,1
+Phospholipid,816.5758,PS 38:2,S/H,1.9957,0.0024
+Phospholipid,816.5758,PS 38:2,F/H,0,1
+Phospholipid,816.5758,PS 38:2,F/S,-1.805,0.0122
+Phospholipid,818.6051,PC P-40:6 / PC O-40:7,C/H,-2.2347,0
+Phospholipid,818.6051,PC P-40:6 / PC O-40:7,S/H,-1.6035,0
+Phospholipid,818.6051,PC P-40:6 / PC O-40:7,F/H,-2.4042,0
+Phospholipid,818.6051,PC P-40:6 / PC O-40:7,F/S,0,1
+Phospholipid,820.621,PC P-40:5  / PC O-40:6,C/H,-1.6932,0
+Phospholipid,820.621,PC P-40:5  / PC O-40:6,S/H,-1.6686,0
+Phospholipid,820.621,PC P-40:5  / PC O-40:6,F/H,-1.529,0
+Phospholipid,820.621,PC P-40:5  / PC O-40:6,F/S,0,1
+Phospholipid,832.5834,PC 38:4,C/H,-1.8064,0
+Phospholipid,832.5834,PC 38:4,S/H,-1.9259,0
+Phospholipid,832.5834,PC 38:4,F/H,-1.6711,0.0003
+Phospholipid,832.5834,PC 38:4,F/S,0.2367,0.6962
+Phospholipid,842.5904,PS 40:3,C/H,0,1
+Phospholipid,842.5904,PS 40:3,S/H,1.8557,0.0006
+Phospholipid,842.5904,PS 40:3,F/H,0,1
+Phospholipid,842.5904,PS 40:3,F/S,-1.8687,0.0048
+Sphingolipid,1101.772,NeuAcHexCer 42:2;O2,C/H,1.752,0.0075
+Sphingolipid,1101.772,NeuAcHexCer 42:2;O2,S/H,2.4454,0
+Sphingolipid,1101.772,NeuAcHexCer 42:2;O2,F/H,0,1
+Sphingolipid,1101.772,NeuAcHexCer 42:2;O2,F/S,-2.2144,0
+Sphingolipid,1292.8806,Hex(3)-Fuc-Cer 44:2;O2,C/H,-2.0218,0.0001
+Sphingolipid,1292.8806,Hex(3)-Fuc-Cer 44:2;O2,S/H,-1.9478,0.0024
+Sphingolipid,1292.8806,Hex(3)-Fuc-Cer 44:2;O2,F/H,-2.0304,0.0018
+Sphingolipid,1292.8806,Hex(3)-Fuc-Cer 44:2;O2,F/S,0,1
+Sterol,367.3359,ST 27:2;O,C/H,3.6738,0
+Sterol,367.3359,ST 27:2;O,S/H,4.2123,0
+Sterol,367.3359,ST 27:2;O,F/H,2.7861,0.0011
+Sterol,367.3359,ST 27:2;O,F/S,-1.4663,0.0985
+Sterol,553.3348,ST 24:1;O3;GlcA,C/H,-4.1414,0
+Sterol,553.3348,ST 24:1;O3;GlcA,S/H,-4.0609,0
+Sterol,553.3348,ST 24:1;O3;GlcA,F/H,-4.1666,0
+Sterol,553.3348,ST 24:1;O3;GlcA,F/S,0,1
